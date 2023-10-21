@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsingla11&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsingla11" /> </p>
 
-- 🌱 I’m currently learning **Web Designing**
+- 🌱 I’m currently learning **Web Development **
 
 - 👨‍💻 All of my projects are available at [Rahulsingla11](Rahulsingla11)
 
