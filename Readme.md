@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning React JS
 - 👨‍💻 All of my projects are available at [shield.wuaze.com](https://shield.wuaze.com)
 - 💬 Ask me about HTML, CSS, JS, PHP, Bootstrap, SQL, React JS
-- 📫 How to reach me: sureshsingla976@gmail.com
+- 📫 How to reach me: rahulsingla493@gmail.com
 - ⚡ Fun fact: I love watching movies
 
 ### Connect with me:
