@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rahul Singla
+# Hi 👋, I'm Rahul 
 
 ### A passionate Full-Stack developer from India
 
