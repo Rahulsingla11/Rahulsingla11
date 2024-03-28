@@ -4,7 +4,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Rahulsingla11&label=Profile%20views&color=0e75b6&style=flat)
 
-[![Twitter](https://img.shields.io/twitter/follow/rahul25025615?logo=twitter&style=for-the-badge)](https://twitter.com/rahul25025615)
 
 - 🌱 I’m currently learning React JS
 - 👨‍💻 All of my projects are available at [shield.wuaze.com](https://shield.wuaze.com)
