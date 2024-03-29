@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [shield.wuaze.com](shield.wuaze.com)
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS ,JS, PHP, Bootstrap, SQL, React JS**
+- 💬 Ask me about **HTML, CSS ,JS, PHP, Bootstrap, SQL, React JS**
 
 - 📫 How to reach me **rahulsingla493@gamil.com**
 
