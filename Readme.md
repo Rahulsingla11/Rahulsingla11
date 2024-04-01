@@ -8,9 +8,7 @@
 
 
 ## 🌐 Socials:
- <a href="https://twitter.com/rahul25025615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahul25025615" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahul singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul singla" height="30" width="40" /></a>
-<a href="https://fb.com/rahul singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul singla" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Rahul Singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul singla" height="30" width="40" /></a>
 <a href="https://instagram.com/rahul_singla_108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul_singla_108" height="30" width="40" /></a>
 
 
