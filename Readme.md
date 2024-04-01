@@ -1,16 +1,88 @@
- <h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsingla11&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsingla11" /> </p>
-
-# 💫 About Me:
-👨‍💻 All of my projects are available at shield.wuaze.com<br>🌱 I’m currently learning Node JS And React JS<br>📫 How to reach me rahulsingla493@gamil.com<br>💬 Ask me about HTML, CSS ,JS, PHP, Bootstrap, SQL, React JS<br>⚡ Fun fact  I love watching movies
 
 
-## 🌐 Socials:
-<a href="https://linkedin.com/in/Rahul Singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul singla" height="30" width="40" /></a>
-<a href="https://instagram.com/rahul_singla_108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahul_singla_108" height="30" width="40" /></a>
+<h2 align="center">Hi 👋, I'm Rahul<br>A passionate Full-Stack developer from India</h2>
+
+###
 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Rahulsingla11.Rahulsingla11&left_text=Profile%20view%20"  />
+
+###
+
+<h2 align="left">💫 About Me:</h2>
+
+###
+
+<p align="left">👨‍💻 All of my projects are available at shield.wuaze.com<br>🌱 I’m currently learning Node JS And React JS<br>📫 How to reach me rahulsingla493@gamil.com<br>💬 Ask me about HTML, CSS ,JS, PHP, Bootstrap, SQL, React JS<br>⚡ Fun fact I love watching movies</p>
+
+
+
+###
+
+<h2 align="left">🌐 Socials:</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/rahul_singla_108/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rahul-singla-922a23293/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="rahulsingla493@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">💻 Tech Stack:</h2>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs"  height="30"/> 
+
+</div>
+
+###
+
+
+<img align="right" height="0" src="https://avatars.githubusercontent.com/u/146106995?v=4"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Rahulsingla11/Rahulsingla11/output/snake.svg" alt="Snake animation" />
+
+###
