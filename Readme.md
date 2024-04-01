@@ -5,7 +5,9 @@
 ###
 
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Rahulsingla11.Rahulsingla11&left_text=Profile%20view%20"  />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsingla11&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsingla11" /> </p>
+
 
 ###
 
@@ -81,8 +83,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rahulsingla11/Rahulsingla11/output/snake.svg" alt="Snake animation" />
-
-###
