@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi 👋, I'm Rahul<br>A passionate Full-Stack developer from India</h2>
+<h2 align="center">Hi 👋, I'm Rahul Singla<br>A passionate Full-Stack developer from India</h2>
 
 ###
 
