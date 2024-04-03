@@ -73,6 +73,8 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs"  height="30"/> 
+` <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="30" alt="express logo"  />
 
 </div>
 
