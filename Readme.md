@@ -1,7 +1,7 @@
 
   <h2>Hi 👋, I'm <span>Rahul Singla</span></h2>
 
-  <p align="center">A Full-Stack developer from India</p>
+  <h2 align="center">A Full-Stack developer from India</h2>
 
   <hr>
 
@@ -51,5 +51,6 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
     <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs"  height="30"/> 
+   <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chart-dot-js&logoColor=white&style=for-the-badge" height="30" alt="chartjs logo" />
+ 
   </div>
