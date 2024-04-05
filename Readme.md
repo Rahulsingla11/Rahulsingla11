@@ -5,6 +5,11 @@
 
   <hr>
 
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Rahulsingla11.Rahulsingla11&left_text=Profile%20view%20"  />
+
+
+
+
   <h2>About Me:</h2>
 
   <p>
