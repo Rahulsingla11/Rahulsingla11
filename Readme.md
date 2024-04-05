@@ -53,6 +53,3 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs"  height="30"/> 
   </div>
-
-</div>
-
