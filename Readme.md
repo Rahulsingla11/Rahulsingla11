@@ -1,55 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Rahul Singla - Full Stack Developer</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f5f5f5;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    h2 {
-      text-align: center;
-      color: #333;
-    }
-    h2 span {
-      color: #007bff;
-    }
-    p {
-      font-size: 18px;
-      line-height: 1.6;
-      color: #555;
-    }
-    .social-icons {
-      display: flex;
-      justify-content: center;
-      margin-top: 20px;
-    }
-    .social-icons a {
-      margin: 0 10px;
-    }
-    .tech-stack {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      margin-top: 20px;
-    }
-    .tech-stack img {
-      margin: 5px;
-    }
-  </style>
-</head>
-<body>
-
-<div class="container">
 
   <h2>Hi 👋, I'm <span>Rahul Singla</span></h2>
 
@@ -108,5 +56,3 @@
 
 </div>
 
-</body>
-</html>
