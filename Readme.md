@@ -13,7 +13,7 @@
 
   <p>
     👨‍💻 All of my projects are available at <a href="https://shield.wuaze.com">shield.wuaze.com</a><br>
-    🌱 I’m currently learning Node.js and React.js<br>
+    🌱 I’m currently learning Cyber Security <br>
     📫 How to reach me: <a href="mailto:rahulsingla493@gmail.com">rahulsingla493@gmail.com</a><br>
     💬 Ask me about HTML, CSS, JS, PHP, Bootstrap, SQL, React.js<br>
     ⚡ Fun fact: I love watching movies
