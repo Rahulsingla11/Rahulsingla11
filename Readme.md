@@ -57,4 +57,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 
 </div>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3685180" style='border:none;'></iframe>
